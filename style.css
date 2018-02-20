@@ -1,8 +1,9 @@
 body{
-  font-family:helvetica,sans-serif;
+  font-family:helvetica,
+  sans-serif;
   text-align:center;
   width:50%;
-  margin: 100px auto;
+  margin: 0 auto;
   padding:30px;
   border:1px solid black;
 }
